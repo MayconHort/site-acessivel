@@ -1,1 +1,25 @@
-# site-acessivel
+<!DOCTYPE html>
+ <html lang="en"> 
+ 
+ <head> 
+ <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>Hello World</title>
+   </head> 
+   
+   <body>
+    <header>
+     <h1>Hello World</h1>
+      <p>Que bom ter você por aqui</p>
+       </header> 
+       <section>
+        <h2>HTML</h2>
+         <p>Hypertext Markup Languages (em português, Linguagem de Marcação de)...</p> 
+         <h2>CSS</h2> <p>Cascading Style Sheets (em português, Folha de Estilo em Cascata)...</p>
+          </section>
+           <footer>
+          <p>Uma página desenvolvida por Alura Start</P>
+     </footer>
+ </body> 
+              
+</html>
