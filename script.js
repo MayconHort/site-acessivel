@@ -16,3 +16,8 @@ let aluno1 = {
    anoLetivo: 'Ensino Médio'
    materiasFavoritas: [Educação Fisica e Biologia,]
 }
+
+console.log(aluno1.Maycon);
+console.log(aluno1.17);
+console.log(aluno1. Educação fisica e biologia);
+console.log(aluno1. educação fisica e biologia);
