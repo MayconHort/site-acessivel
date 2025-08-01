@@ -4,3 +4,6 @@ let nomeUsuario = prompt( "qual o seu nome");
    console.log(elemento);
    elemento.textcontent = nomeUsuario;
 }
+const lista = document.querySelector('#lista');
+
+lista.textContent =
