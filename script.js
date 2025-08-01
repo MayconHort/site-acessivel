@@ -6,4 +6,6 @@ let nomeUsuario = prompt( "qual o seu nome");
 }
 const lista = document.querySelector('#lista');
 
-lista.textContent =
+lista.textContent = linguagens[0]
+lista.textContent = linguagens[1]
+lista.textContent = linguagens[2]
